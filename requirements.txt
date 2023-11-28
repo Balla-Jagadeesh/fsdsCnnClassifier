@@ -13,5 +13,9 @@ joblib
 types-pyYAML
 scipy
 mlflow==1.26.1
+pathlib
+zipfile36
+urllib3
+dataclasses
 
 -e .
